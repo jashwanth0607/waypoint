@@ -1,0 +1,16 @@
+{
+  "name": "WAYFARER Travel Planner",
+  "short_name": "WAYFARER",
+  "description": "Turn destination ideas into structured, day-by-day itineraries.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#FBF9F5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
